@@ -6,5 +6,5 @@ To reinforce learning and to help other novice coders view the answers instead o
 
 ## Whats the link for freecodecamp?
 
-- [FreeCodeCAmps](https://www.freecodecamp.com)
+- [FreeCodeCamp](https://www.freecodecamp.com)
 
